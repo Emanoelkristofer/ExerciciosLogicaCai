@@ -1,0 +1,151 @@
+     PROGRAMA VENDA DE AIR MAX PLUS III
+
+
+var
+
+nome:caractere; idade:inteiro; datadenascimento:numerico; endereço:caractere; rua:inteiro; bairro:caractere; complemento:inteiro; pontodereferencia:caractere; cpf:numerico; rg:numerico; etnia:caractere; email:caractere; numerotelefonicodaresidencia:inteiro; numerodocelular:inteiro; genero:caracteristica; assinatura:caractere
+
+inicio
+
+escreva("-----------------------------------------------------------")
+escreva("                                                           ")
+escreva("                   BEM-VINDO A SPORTLINE                   ")
+escreva("                                                           ")
+escreva("              O QUE VOCE DESEJA COMPRAR AQUI?              ")
+escreva("                                                           ")
+escreva("      1-AIR MAX PLUS III PRETO X  1.499,99                 ")
+escreva("      2-AIR MAX PLUS III BRANCO X 1.234,99                 ")
+escreva("      3-AIR MAX PLUS III AZUL X 1.499,99                   ")
+escreva("      4-AIR MAX PLUS III VERMELHO X 1.499,99               ")
+escreva("      5-AIR MAX PLUS III ROXO X 1.234,99                   ")
+escreva("___________________________________________________________")
+escreva("                        TAMANHOS                         ^ ")
+escreva("___________________________________________________________")
+escreva("                                                           ")
+escreva("                   [35][36][37][38]                        ")
+escreva("                   [39][40][41][42]                        ")
+escreva("                   [43][44][45][46]                        ")
+escreva("___________________________________________________________")
+escreva("                        PREÇO                             ^")
+escreva("___________________________________________________________")
+escreva("                      MODELOS                             ^")
+escreva("-----------------------------------------------------------")
+escreva("digite seu nome")
+leia(nome)
+escreva("digite sua idade")
+leia(idade)
+escreva("digite sua data de nascimento")
+leia(data)
+escreva("digite seu endereço")
+leia(endereço)
+escreva("digite o nome de sua rua")
+leia(nome da rua)
+escreva("digite seu bairro")
+leia(bairro)
+escreva("digite complemento")
+leia(complemento)
+escreva("digite ponto de referencia")
+leia(ponto de referencia)
+escreva("digite seu cpf")
+leia(cpf)
+escreva("digite seu rg sem pontuação)
+leia(rg)
+escreva("qual sua etnia")
+leia(resposta)
+escreva("digite seu email")
+leia(email)
+escreva("numero telefonico da sua residencia")
+leia(numero)
+ecreva("numero do seu celular")
+leia(numero do celular)
+escreva("digite seu genero")
+leia(genero)
+leia(AIR MAX PLUS III PRETO)
+senao se opcao == 1 entao
+AIRMAXPLUSIIIPRETO = 1
+valorAIRMAXPLUSIIIPRETO = 1499.99
+escreva("voce comprou seu tn")
+leia(AIR MAX PLUS III BRANCO)
+senao se opcao == 2 entao
+AIRMAXPLUSIIIBRANCO = 1
+valorAIRMAXPLUSIIIBRANCO = 1234.99 
+escreva("voce comprou seu tn")
+senao se opcao == 3 entao
+AIRMAXPLUSIIIAZUL = 1
+valorAIRMAXPLUSIIIAZUL = 1499.99
+escreva("voce comprou seu tn")
+leia(AIR MAX PLUS III VERMELHO)
+se nao se opcao == 4 entao
+AIRMAXPLUSIIIVERMELHO = 1
+valorAIRMAXPLUSIIIVERMELHO = 1499.99
+escreva("voce comprou seu tn")
+leia(AIR MAX PLUS III ROXO)
+senao se opcao == 5 entao
+AIRMAXPLUSIIIROXO = 1
+valorAIRMAXPLUSIIIROXO = 1234.99
+escreva("voce comprou seu tn")
+escreva("TAMANHO 35")
+se tamanho35 == s ou tamanho35 == S entao 
+escreva("sim")
+se tamanho35 == n ou tamanho35 == N entao
+escreva("não")
+escreva("TAMANHO 36")
+se tamanho36== s ou tamanho36 == S entao 
+escreva("sim")
+se tamanho36 == n ou tamanho36 == N entao
+escreva("não")
+escreva("TAMANHO 37")
+se tamanho37 == s ou tamanho37 == S entao 
+escreva("sim")
+se tamanho37 == n ou tamanho37 == N entao
+escreva("não")
+escreva("TAMANHO 38")
+se tamanho38 == s ou tamanho38 == S entao 
+escreva("sim")
+se tamanho38 == n ou tamanho38 == N entao
+escreva("não")
+escreva("TAMANHO 39")
+se tamanho39 == s ou tamanho39 == S entao 
+escreva("sim")
+se tamanho39 == n ou tamanho39 == N entao
+escreva("não")
+escreva("TAMANHO 40")
+se tamanho40 == s ou tamanho40 == S entao 
+escreva("sim")
+se tamanho40 == n ou tamanho40 == N entao
+escreva("não")
+escreva("TAMANHO 41")
+se tamanho41 == s ou tamanho41 == S entao 
+escreva("sim")
+se tamanho41 == n ou tamanho41 == N entao
+escreva("não")
+escreva("TAMANHO 42")
+se tamanho42 == s ou tamanho42 == S entao 
+escreva("sim")
+se tamanho42 == n ou tamanho42 == N entao
+escreva("não")
+escreva("TAMANHO 43")
+se tamanho43 == s ou tamanho43 == S entao 
+escreva("sim")
+se tamanho43 == n ou tamanho43 == N entao
+escreva("não")
+escreva("TAMANHO 44")
+se tamanho44 == s ou tamanho44 == S entao 
+escreva("sim")
+se tamanho44 == n ou tamanho44 == N entao
+escreva("não")
+escreva("TAMANHO 45")
+se tamanho45 == s ou tamanho45 == S entao 
+escreva("sim")
+se tamanho45 == n ou tamanho45 == N entao
+escreva("não")
+escreva("TAMANHO 46")
+se tamanho46 == s ou tamanho46 == S entao 
+escreva("sim")
+se tamanho46 == n ou tamanho46 == N entao
+escreva("não")
+
+escreva("escreva sua assinatura abaixo")
+escreva("______________________________")
+leia(assinatura)
+
